@@ -606,6 +606,7 @@ ul,li{
     font-weight: 500;
 }
 .video__content {
+    background-color: #000;
     position: absolute;
     top: 0;
     left: 0;
