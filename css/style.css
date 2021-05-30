@@ -131,9 +131,6 @@ ul,li{
 .header__btn {
     margin-top: 35px;
 }
-.header__slider{
-    
-}
 .header__slider .slick-btn{
     position: absolute;
     top: 46%;
@@ -581,7 +578,6 @@ ul,li{
     background-repeat: no-repeat;
     background-size: cover;
     margin: 15px;
-
 }
 .video__play:hover .video__play-btn{
     background-position-y: -70px;

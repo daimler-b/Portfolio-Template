@@ -34,15 +34,6 @@ $(function(){
 
     });
 
-    let play_video = $(".video__play");
-    play_video.on("click", function(event){
-
-        event.preventDefault();
-
-        $(".video__content").removeClass("hide");
-
-    });
-
     $('.posts__items-img').slick({
         dots: true,
         infinite: true,
